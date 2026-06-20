@@ -12,7 +12,7 @@ This repository contains the supplementary multimedia materials for our paper.
 
 ## Real-world Deployments
 **Deployment 1: Wheeled Robot**
-[[Wheeled Robot](https://youtu.be/UMxzeKu6PXM)]
+[[Wheeled Robot](https://youtu.be/2HyIqE5RPpY)]
 
 **Deployment 2: Heterogeneous Platform (Quadruped Robot)**
-[[Quadruped Robot](https://youtu.be/2eeL1__xqT4)]
+[[Quadruped Robot](https://youtu.be/Q2GjdgXtG9g)]
